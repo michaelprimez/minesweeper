@@ -1,0 +1,13 @@
+{
+  "language": "en",
+  "game_over": "Game Over",
+  "game_over_description": "Sorry, but you stepped to a bomb \uD83E\uDD2A. Do you want to try again?",
+  "you_won": "You Won",
+  "win_description": "Super: You WON \uD83D\uDE00 \uD83D\uDE00 \uD83D\uDE00. Do you want to try again?",
+  "yes_i_want": "Yes, I want \uD83D\uDE00.",
+  "nop_i_fine": "Nop, I am fine \uD83D\uDE41.",
+  "select_game_size": "Select Game Size",
+  "new_10x10_game": "New 10x10 game.",
+  "new_15x15_game": "New 15x15 game.",
+  "new_20x20_game": "New 20x20 game."
+}
